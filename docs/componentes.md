@@ -1,0 +1,12 @@
+# Componentes
+- Raspberry Pi 4 model B
+- Pantalla OKI 24”
+- Altavoces Logitech 2 de 8.5 cm de diámetro y uno grande de 20 cm diámetro
+- Kit IL con placas Zero Delay
+- Planchas de madera medida a determinar de melamina
+- Regleta para enchufes
+- Barra LED de unos 600mm para iluminar la parte de arriba de la bartop
+- Tornilleria
+- Cerrojo
+- Embellecedores para los altavoces
+- Pintura negra
