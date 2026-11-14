@@ -27,11 +27,10 @@ Conseguir una máquina recreativa completamente funcional.
 | Característica	| Descripción |
 |---|---| 
 | Tipo	| Bartop Arcade | 
-| Pantalla	| Por definir | 
-| Sistema operativo	| Por definir | 
-| Emulador	|  Por definir | 
-|  Controles |  	Joystick y botones arcade | 
-| Sonido | 	Por definir | 
+| Pantalla	| TV OKI 24" medidas 57.5x37cm | 
+| Emulador	| Batocera 128 GB preloaded image ArcadeGames.Rpi4.Rpi3-JC | 
+| Controles | Kit IL con placas Zero Delay | 
+| Sonido | 	Logitech Z623 THX 2.1 | 
 | Alimentación | 	Por definir | 
 
 ## 🔧 Componentes
