@@ -14,12 +14,12 @@ Este repositorio recoge la documentación técnica, los planos, las configuracio
 ---
 
 ## 🎯 Objetivos
-Diseñar y construir una estructura tipo Bartop.
-Seleccionar e instalar los componentes electrónicos.
-Configurar los controles arcade.
-Instalar y configurar el sistema de emulación.
-Documentar los problemas encontrados y sus soluciones.
-Conseguir una máquina recreativa completamente funcional.
+- Diseñar y construir una estructura tipo Bartop.
+- Seleccionar e instalar los componentes electrónicos.
+- Configurar los controles arcade.
+- Instalar y configurar el sistema de emulación.
+- Documentar los problemas encontrados y sus soluciones.
+- Conseguir una máquina recreativa completamente funcional.
 
 ---
 
