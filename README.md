@@ -29,7 +29,7 @@ Toda la información del proyecto está organizada en los siguientes apartados:
 |---|---| 
 | [Componentes](docs/componentes.md) | Materiales utilizados, precio y donde conseguirlos | 
 | Montaje	| Proceso de construcción |
-| Configuración de botones |	Distribución y asignación de controles |
+| [Configuración de botones](docs/configuracionControles.md) |	Distribución y asignación de controles |
 | Problemas y soluciones	| Incidencias encontradas durante el desarrollo |
 
 ## 📐 [Planos](planos/)
