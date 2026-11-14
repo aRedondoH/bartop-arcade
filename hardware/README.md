@@ -6,4 +6,5 @@
 | Ordenador | RaspPi 4 Model B |
 | Botónes y Joystick | Kit IL con placas Zero Delay |
 | Altavoces | Logitech Z623 THX 2.1 |
-| Iluminación | Barra LED 60cm |
+| Iluminación panel superior | Barra LED 60cm |
+| Sistema de almacenamiento | MicroSD 128 GB | 
