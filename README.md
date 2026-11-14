@@ -45,11 +45,11 @@ Toda la información del proyecto está organizada en los siguientes apartados:
 
 | Documento | Descripción | 
 |---|---| 
-| Componentes	| Hardware y materiales utilizados |
+| Componentes	| Hardware, materiales utilizados, precio y donde conseguirlos |
+| Montaje	| Proceso de construcción |
 | Configuración de botones |	Distribución y asignación de controles |
 | Problemas y soluciones	| Incidencias encontradas durante el desarrollo |
-| Tareas pendientes	| Trabajo pendiente |
-| Montaje	| Proceso de construcción |
+
 
 ---
 
