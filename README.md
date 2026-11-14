@@ -40,12 +40,12 @@ Consulta el listado completo de componentes y sus especificaciones:
 
 ---
 
-## 📚 Documentación (docs/)
+## 📚 [Documentación](docs/)
 Toda la información del proyecto está organizada en los siguientes apartados:
 
 | Documento | Descripción | 
 |---|---| 
-| Componentes (docs/componentes.md)	| Hardware, materiales utilizados, precio y donde conseguirlos | 
+| [Componentes] (docs/componentes.md)	| Hardware, materiales utilizados, precio y donde conseguirlos | 
 | Montaje	| Proceso de construcción |
 | Configuración de botones |	Distribución y asignación de controles |
 | Problemas y soluciones	| Incidencias encontradas durante el desarrollo |
