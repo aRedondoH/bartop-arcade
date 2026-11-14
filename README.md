@@ -1,17 +1,8 @@
 # 🕹️ Bartop Arcade
-
 Proyecto personal de diseño, construcción y configuración de una máquina recreativa tipo Bartop Arcade.
-
-El objetivo es construir una máquina arcade funcional, documentando todo el proceso: desde el diseño de la estructura y selección de componentes hasta el montaje del hardware y configuración del software.
-
----
 
 ## 📌 Estado del proyecto
 🚧 En desarrollo
-
-Este repositorio recoge la documentación técnica, los planos, las configuraciones y la evolución del proyecto.
-
----
 
 ## 🎯 Objetivos
 - Diseñar y construir una estructura tipo Bartop.
@@ -20,8 +11,6 @@ Este repositorio recoge la documentación técnica, los planos, las configuracio
 - Instalar y configurar el sistema de emulación.
 - Documentar los problemas encontrados y sus soluciones.
 - Conseguir una máquina recreativa completamente funcional.
-
----
 
 ## ⚙️ Características
 | Característica	| Descripción |
@@ -33,48 +22,30 @@ Este repositorio recoge la documentación técnica, los planos, las configuracio
 | Sonido | 	Logitech Z623 THX 2.1 | 
 | Alimentación | 	Por definir | 
 
-## 🔧 Componentes
-Consulta el listado completo de componentes y sus especificaciones:
-
-- Listado de componentes
-
----
-
 ## 📚 [Documentación](docs/)
 Toda la información del proyecto está organizada en los siguientes apartados:
 
 | Documento | Descripción | 
 |---|---| 
-| [Componentes] (docs/componentes.md)	| Hardware, materiales utilizados, precio y donde conseguirlos | 
+| [Componentes](docs/componentes.md) | Materiales utilizados, precio y donde conseguirlos | 
 | Montaje	| Proceso de construcción |
 | Configuración de botones |	Distribución y asignación de controles |
 | Problemas y soluciones	| Incidencias encontradas durante el desarrollo |
 
-
----
-
-## 📐 Planos
+## 📐 [Planos](planos/)
 Los planos y diseños técnicos se encuentran en la carpeta planos.
 
----
-
-## 📸 Galería
+## 📸 [Galería](imágenes/)
 Fotografías de las diferentes fases del proyecto:
-
-- Progreso
+- [Progreso](imágenes/progreso.md)
 - Montaje
 - Resultado final
 
-Consulta la carpeta imágenes.
+## 🛠️ [Hardware](hardware/) y [Software](software/)
+En este apartado se documenta el emulador, herramientas y configuraciones utilizadas durante el desarrollo.
 
----
-
-## 🛠️ Tecnologías y software
-En este apartado se documentarán los sistemas operativos, emuladores, herramientas y configuraciones utilizadas durante el desarrollo.
-
-Consulta la carpeta software.
-
----
+## 🔗 [Recursos](recursos/)
+Recursos utilizados para realizar el proyecto como guías, programas útiles, ...
 
 ## 📄 Licencia
 Pendiente de definir.
