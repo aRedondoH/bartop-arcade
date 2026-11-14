@@ -61,12 +61,9 @@ Los planos y diseños técnicos se encuentran en la carpeta planos.
 ## 📸 Galería
 Fotografías de las diferentes fases del proyecto:
 
-- Diseño.
-- Corte y preparación de materiales.
-- Montaje de la estructura.
-- Instalación electrónica.
-- Configuración del software.
-- Resultado final.
+- Progreso
+- Montaje
+- Resultado final
 
 Consulta la carpeta imágenes.
 
@@ -76,19 +73,6 @@ Consulta la carpeta imágenes.
 En este apartado se documentarán los sistemas operativos, emuladores, herramientas y configuraciones utilizadas durante el desarrollo.
 
 Consulta la carpeta software.
-
----
-
-## 📝 Historial del proyecto
-El proyecto se irá actualizando conforme avance la construcción de la máquina.
-
-| Versión	| Descripción | 
-|---|---|
-| v0.1 |	Creación del repositorio y documentación inicial |
-| v0.2 |  Diseño y selección de componentes |
-| v0.3 |	Montaje de la estructura |
-| v0.4 |	Instalación y configuración electrónica |
-| v1.0 |	Proyecto finalizado |
 
 ---
 
