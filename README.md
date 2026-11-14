@@ -1,4 +1,4 @@
-# 🕹️ Bartop Arcade
+# 🕹️ Retro Eagle Bartop Arcade 🦅 
 Proyecto personal de diseño, construcción y configuración de una máquina recreativa tipo Bartop Arcade.
 
 ## 📌 Estado del proyecto
