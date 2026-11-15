@@ -37,7 +37,7 @@ Los planos y diseños técnicos se encuentran en la carpeta planos.
 
 ## 📸 [Galería](imágenes/)
 Fotografías de las diferentes fases del proyecto:
-- [Progreso](imágenes/progreso.md)
+- [Progreso](imágenes/progreso/)
 - Montaje
 - Resultado final
 
